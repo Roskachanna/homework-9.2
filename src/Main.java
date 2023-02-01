@@ -20,10 +20,10 @@ public class Main {
         for (int i = 0; i < arr.length; i++) {
             sum += arr[i];{
                 System.out.println("Сумма трат за месяц составила " + arr[i] + " рублей");
+
             }
             System.out.println("Общая сумма затрат за весь период составила " + sum + " рублей");
         }
-        System.out.println();
     }
     public static void task2() {
         System.out.println(" Задача 2");
